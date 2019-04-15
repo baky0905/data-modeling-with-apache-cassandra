@@ -19,7 +19,7 @@ event_data/2018-11-09-events.csv
 
 In addition to the **dataset from the event_data folder**, the project workspace includes **two more files**:
 
-1. `Project_1B_ AppacheCassandra.ipynb` contains two parts 
+1.  [`Project_1B_ AppacheCassandra.ipynb`](https://github.com/baky0905/data-modeling-with-apache-cassandra/blob/master/Project_1B_%20AppacheCassandra.ipynb) contains two parts 
 
    a) Part I. ETL Pipeline for Pre-Processing the csv files from the event_data folder-
 
