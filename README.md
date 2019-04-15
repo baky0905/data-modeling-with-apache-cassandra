@@ -13,7 +13,7 @@ event_data/2018-11-08-events.csv
 event_data/2018-11-09-events.csv
 ```
 
-![](C:\Users\Bruker\Nanodegrees\DEND\DataModelling\_2ndProject_cassandra\2ndSubmission\images\image_event_datafile_new.jpg)
+![](https://raw.githubusercontent.com/baky0905/data-modeling-with-apache-cassandra/master/images/image_event_datafile_new.jpg)
 
 ## Explanation of the files in the repository
 
